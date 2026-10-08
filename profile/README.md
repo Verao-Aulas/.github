@@ -1,12 +1,11 @@
-## Hi there 👋
+# Segunda semana mês 10
 
-<!--
+## Primeira tarefa do dia 08 ao dia 10
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ - 1 Estudar sobre o Git.
+   - Entender oque é o git
+   - Entender oque são branches.
+   - Entender oque é commit
+ - 2 Estudar oque é o GitHub
+   - Principais funcionalidades
+ - 3 Criar um repositório no GuitHub já com um arquivo README.md 
