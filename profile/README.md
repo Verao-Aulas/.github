@@ -8,4 +8,8 @@
    - Entender oque é commit
  - 2 Estudar oque é o GitHub
    - Principais funcionalidades
- - 3 Criar um repositório no GuitHub já com um arquivo README.md 
+ - 3 Criar um repositório no GuitHub já com um arquivo README.md
+
+### Referencia 
+
+https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
